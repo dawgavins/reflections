@@ -21,3 +21,8 @@ git log gives a history of commit ids, and git diff allows you to compare across
 How might using version control make you more confident to make changes that could break something?
 
 You can always go back to a working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Course Projects
+
